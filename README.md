@@ -48,26 +48,10 @@ A bold, playful burger restaurant website built with React 19, Vite, Tailwind CS
 
 ---
 
-## 📸 Visual Preview
+## 📸 Hero Section (Live Deployment)
 
-### Live Deployment Screenshot
-![Burger App - Full Page](burger-app-screenshot.png)
-*Complete live deployment showing: Hero with magnetic CTA, Why Choose Us, Popular Dishes horizontal scroll, About with chamfered frame, Menu List, Chefs, Stats counters, Testimonials carousel, Newsletter, Footer*
-
-### Key UI Sections (from live deployment)
-
-| Section | Features |
-|---------|----------|
-| **Hero** | Sampled red background from hero image, floating burger cutout with drop shadow, magnetic "Order Now" button with shine sweep, scroll indicator |
-| **Why Choose Us** | 3-column grid with animated icons (truck, flame, leaf), hover lift effects, staggered scroll reveals |
-| **Popular Dishes** | Horizontal scrolling cards with food cutouts, price badges, "Add to Cart" magnetic buttons, navigation arrows |
-| **About** | Split layout with chamfered image frame, stats counters (animated), split-text headline reveal |
-| **Menu List** | Category tabs, dish cards with cutout images, descriptions, prices |
-| **Chefs** | Chef profile cards with hover animations, social links |
-| **Stats** | Animated counters (customers, burgers, locations, chefs), floating particles |
-| **Testimonials** | Card carousel with customer photos, ratings, quote text, auto-rotate |
-| **Newsletter** | Email capture with ticket-clip button, success toast |
-| **Footer** | Brand, navigation links, social icons, copyright |
+![Burger App - Hero](burger-app-hero.png)
+*Hero: "Большой гамбургер" / "ГОВЯДИНА" (Big Burger / Beef in Russian), sampled red background from hero burger photo, floating burger cutout with drop shadow, magnetic "Order Now" button with shine sweep, scroll indicator*
 
 ---
 
